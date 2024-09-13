@@ -6,10 +6,13 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipermpires@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5581998242649)
 
-![Felipe Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipereis13&show_icons=true&theme=dracula)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipereis13&show_icons=true&theme=radical&hide_rank=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis13&layout=compact)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis13&layout=compact) 
+
 
 ## Tecnologias que eu estou usando ou aprendendo:
 
