@@ -8,6 +8,9 @@
 
 ![Felipe Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipereis13&show_icons=true&theme=dracula)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis13&layout=compact)
+
 ## Tecnologias que eu estou usando ou aprendendo:
 
 <div style="display: inline_block">
